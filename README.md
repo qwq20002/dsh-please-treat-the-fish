@@ -38,8 +38,14 @@
 
 ## 安装与卸载
 
+```powershell
+git clone https://github.com/qwq20002/dsh-please-treat-the-fish.git
+```
+
+然后在 DSH 里把克隆下来的目录装上：
+
 ```text
-plugin_manager action=install_bundle target=D:\myWorkfolder\please-treat-the-fish-2
+plugin_manager action=install_bundle target=<克隆下来的目录的绝对路径>
 plugin_manager action=remove_bundle target=please-treat-the-fish-2
 ```
 
