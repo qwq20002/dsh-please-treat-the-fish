@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Please Treat the Fish Well!",
+    "description": "Three escalating replies per session: a tolerance counter, a refusal of the current task with a warning, and terminating the whole session. Refuse first when offended; terminate only if it keeps going. The policy lives in the system prompt."
+  }
+}

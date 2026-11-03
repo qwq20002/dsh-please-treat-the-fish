@@ -1,0 +1,5 @@
+# 请善待肥鱼！第二版：容忍度计数器 + 拒绝任务 + 终止开关。
+- insert:
+    - id: please-treat-the-fish-2
+      name: 'please-treat-the-fish-2'
+      config: {}
